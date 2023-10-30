@@ -1,0 +1,8 @@
+{
+    "esbonio.trace.server": "verbose",
+    "esbonio.sphinx.confDir": "",
+    "restructuredtext.linter.rstcheck.executablePath": "${workspaceFolder}/.venv-sphinx/bin/rstcheck",
+    "restructuredtext.linter.rst-lint.executablePath": "${workspaceFolder}/.venv-sphinx/bin/rst-lint",
+    "restructuredtext.linter.doc8.executablePath": "${workspaceFolder}/.venv-sphinx/bin/doc8",
+    "cornflakes.linter.executablePath": "${workspaceFolder}/.venv-sphinx/bin/flake8"
+}
